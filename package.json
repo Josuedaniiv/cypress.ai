@@ -1,0 +1,18 @@
+{
+  "name": "cypress.ia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --browser chrome --e2e"
+  },
+  "keywords": [
+    "cypress_test"
+  ],
+  "author": "Josue Venegas",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.4",
+    "typescript": "^5.2.2"
+  }
+}
